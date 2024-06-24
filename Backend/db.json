@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Saqlain",
+      "id": 1
+    },
+    {
+      "name": "mohammed",
+      "salary": "1000",
+      "company": "tcs",
+      "id": 2
+    },
+    {
+      "name": "mohammed",
+      "salary": "1000",
+      "company": "tcs",
+      "id": 3
+    },
+    {
+      "name": "ranganath",
+      "salary": "10000",
+      "company": "tcs",
+      "id": 5
+    },
+    {
+      "name": "adnan",
+      "salary": "50000",
+      "company": "tcs",
+      "id": 7
+    }
+  ]
+}
